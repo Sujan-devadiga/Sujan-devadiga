@@ -40,7 +40,7 @@ Full Stack Learner (MERN) | Python & AI/ML Enthusiast
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://instagram.com/sujan_devadiga" target="_blank">
+  <a href="https://instagram.com/sujan_devadiga__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sujan-devadiga/" target="_blank">
