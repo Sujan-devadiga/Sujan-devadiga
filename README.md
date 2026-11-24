@@ -1,58 +1,63 @@
-<h1 align="center">Hi 👋, I'm Sujan</h1>
-<h3 align="center">
-Full Stack Learner (MERN) | Python & AI/ML Enthusiast
-</h3>
+# Hi 👋, I'm Sujan
 
----
+### AI & ML Engineering Graduate | Python | Full Stack Development | AI Technologies
 
-## 👨‍💻 About Me
-- 🌱 Currently learning **Full Stack Web Development (MERN Stack)**
-- 🧠 Strong foundation in **Python** and **AI / Machine Learning**
-- 💡 Interested in building real-world web and ML projects
-- 🎯 Always curious to learn new technologies and improve my skills
+I'm an AI & ML Engineering graduate interested in building practical software applications and exploring AI-powered technologies.
+
+- 🎓 Graduate in Artificial Intelligence & Machine Learning
+- 💻 Internship experience at Tally Solutions and Suprmentr
+- 🤖 Worked on AI-assisted code review and semantic retrieval workflows
+- 🌱 Continuously improving my problem-solving and software development skills
+- 🚀 Interested in building real-world applications and learning emerging technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+### Programming Languages
+Python · JavaScript · SQL
 
-### 🧩 Frameworks & Concepts
-<p>
-  <img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge"/>
-</p>
+### Frontend
+React.js · HTML · CSS
 
-### 🔧 Tools & Libraries
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+### Backend
+Node.js · Express.js · FastAPI · REST APIs
 
----
+### Databases
+MongoDB · MySQL · Qdrant
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://instagram.com/sujan_devadiga__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sujan-devadiga/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sujandevadiga11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### AI & Machine Learning
+LLMs · AWS Bedrock · Semantic Search
+
+### Tools & Technologies
+Git · GitHub · Bitbucket · Docker · VS Code · MongoDB Compass
+
+### Frameworks & Concepts
+MERN Stack · REST API Development · CRUD Operations · Retrieval Workflows
 
 ---
 
-<p align="center">
-✨ <i>Learning, Building, and Growing Every Day</i> ✨
-</p>
+## 🚀 Featured Projects
+
+### AI-Powered Pull Request Review System
+- Contributed to an AI-assisted system for analyzing Bitbucket pull requests.
+- Worked with Python, FastAPI, Qdrant and semantic retrieval workflows.
+- Contributed to complexity-based model routing and review telemetry.
+
+### Expense Tracker | MERN Stack
+- Full-stack expense management application using MongoDB, Express.js, React.js and Node.js.
+- Features include expense management, CRUD operations and dashboard functionality.
+
+### Food Ingredients & Skincare Tracking System
+- Python application using OCR to scan product ingredients.
+- Identifies potentially harmful ingredients using defined classification criteria.
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Sujan](https://www.linkedin.com/in/sujan-devadiga-4b953733a/)
+- 📧 Email: sujandevadiga11@gmail.com
+- 🐙 GitHub: [Sujan-devadiga](https://github.com/Sujan-devadiga)
+
+✨ Learning, Building, and Growing Every Day ✨
