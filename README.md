@@ -1,63 +1,78 @@
 # Hi 👋, I'm Sujan
 
-### AI & ML Engineering Graduate | Python | Full Stack Development | AI Technologies
+### AI & ML Engineering Graduate | Python Developer | Full Stack Development Enthusiast
 
-I'm an AI & ML Engineering graduate interested in building practical software applications and exploring AI-powered technologies.
+Welcome to my GitHub profile! I'm an Artificial Intelligence and Machine Learning Engineering graduate interested in building practical software applications and exploring AI-powered technologies.
 
-- 🎓 Graduate in Artificial Intelligence & Machine Learning
-- 💻 Internship experience at Tally Solutions and Suprmentr
-- 🤖 Worked on AI-assisted code review and semantic retrieval workflows
-- 🌱 Continuously improving my problem-solving and software development skills
-- 🚀 Interested in building real-world applications and learning emerging technologies
+## 👨‍💻 About Me
 
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-Python · JavaScript · SQL
-
-### Frontend
-React.js · HTML · CSS
-
-### Backend
-Node.js · Express.js · FastAPI · REST APIs
-
-### Databases
-MongoDB · MySQL · Qdrant
-
-### AI & Machine Learning
-LLMs · AWS Bedrock · Semantic Search
-
-### Tools & Technologies
-Git · GitHub · Bitbucket · Docker · VS Code · MongoDB Compass
-
-### Frameworks & Concepts
-MERN Stack · REST API Development · CRUD Operations · Retrieval Workflows
+- 🎓 Engineering graduate in Artificial Intelligence & Machine Learning.
+- 💼 Software Engineering Intern at Tally Solutions.
+- 💻 Full Stack Web Developer Intern at Suprmentr Technologies.
+- 🤖 Worked on AI-assisted code review, semantic search and backend development.
+- 🌱 Continuously improving my skills in software engineering, DSA and emerging technologies.
+- 🚀 Interested in building real-world applications and solving practical problems.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-### AI-Powered Pull Request Review System
-- Contributed to an AI-assisted system for analyzing Bitbucket pull requests.
-- Worked with Python, FastAPI, Qdrant and semantic retrieval workflows.
-- Contributed to complexity-based model routing and review telemetry.
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Expense Tracker | MERN Stack
-- Full-stack expense management application using MongoDB, Express.js, React.js and Node.js.
-- Features include expense management, CRUD operations and dashboard functionality.
+### 🌐 Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Food Ingredients & Skincare Tracking System
-- Python application using OCR to scan product ingredients.
-- Identifies potentially harmful ingredients using defined classification criteria.
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+---
+
+## 💼 Experience
+
+**Software Engineering Intern – Tally Solutions**
+- Contributed to an AI-powered Pull Request Review System.
+- Worked with Python, FastAPI, semantic retrieval and vector search.
+- Contributed to model-routing and review telemetry workflows.
+
+**Full Stack Web Developer Intern – Suprmentr Technologies**
+- Developed web applications using the MERN stack.
+- Built REST APIs and database-driven CRUD functionality.
+
+---
+
+## 🚀 Projects
+
+My project repositories are being organized and updated. More complete project documentation and demonstrations will be added here as they are published.
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Sujan](https://www.linkedin.com/in/sujan-devadiga-4b953733a/)
-- 📧 Email: sujandevadiga11@gmail.com
-- 🐙 GitHub: [Sujan-devadiga](https://github.com/Sujan-devadiga)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujan-devadiga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujan-devadiga-4b953733a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujandevadiga11@gmail.com)
 
-✨ Learning, Building, and Growing Every Day ✨
+---
+
+<p align="center">
+  ✨ Learning, Building, and Growing Every Day ✨
+</p>
