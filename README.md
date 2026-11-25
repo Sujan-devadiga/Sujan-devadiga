@@ -61,7 +61,38 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence and Machine Learnin
 
 ## 🚀 Projects
 
-My project repositories are being organized and updated. More complete project documentation and demonstrations will be added here as they are published.
+## 🚀 Featured Projects
+
+### 1. AI-Powered Pull Request Review System
+Contributed to an AI-powered code review system that analyzes Bitbucket pull requests and generates code-review insights.
+
+- Worked with semantic code retrieval and vector-based search.
+- Contributed to LLM-based analysis and complexity-based model routing.
+- Worked with review telemetry and retrieval workflows.
+
+**Tech Stack:** Python, FastAPI, AWS Bedrock, Qdrant, Bitbucket, Git
+
+### 2. Expense Tracker
+A full-stack expense management application that helps users track and organize their daily expenses through a responsive dashboard.
+
+- Built expense creation, editing, deletion, and search functionality.
+- Integrated MongoDB with Express REST APIs.
+- Includes spending summaries and a 7-day expense chart.
+
+**Tech Stack:** React, Vite, Node.js, Express.js, MongoDB
+
+🔗 [View Expense Tracker](https://github.com/Sujan-devadiga/Expense-Tracker)
+
+### 3. Food Ingredients & Skincare Tracking System
+A Python-based application that scans product ingredients using OCR and identifies potentially harmful chemicals.
+
+- Extracts ingredients from product images using OCR.
+- Analyzes detected ingredients against defined safety criteria.
+- Classifies products based on the application's ingredient analysis.
+
+**Tech Stack:** Python, OCR, Image Processing
+
+
 
 ---
 
