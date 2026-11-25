@@ -91,6 +91,7 @@ A Python-based application that scans product ingredients using OCR and identifi
 - Classifies products based on the application's ingredient analysis.
 
 **Tech Stack:** Python, OCR, Image Processing
+🔗  [View FIST](https://github.com/Sujan-devadiga/FIST-Food-Ingredients-and-SkinCare-Tracker)
 
 
 
